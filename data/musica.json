@@ -1,0 +1,23 @@
+{
+    "nombreApp" : "music_app",
+    "musica" : [
+        {
+            "genero" : "Banda",
+            "artista" : "Eslabon Armado",
+            "cancionFav": "Con tus besos",
+            "imagen": "https://images.sk-static.com/images/media/profile_images/artists/9662174/huge_avatar"
+        },
+        {
+            "genero" : "Pop",
+            "artista" : "The Weekend",
+            "cancionFav": "Blinding Lights",
+            "imagen" : "https://loff.it/wp-content/uploads/2020/04/loffit-the-weekend-prosigue-la-promocion-de-su-cuarto-album-con-un-nuevo-video-01.jpg"
+        },
+        {
+            "genero" : "Regional Mexicano",
+            "artista" : "Carlos Rivera",
+            "cancionFav": "Recuerdame",
+            "imagen" : "https://img.europapress.es/fotoweb/fotonoticia_20180914122955_420.jpg"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "nombreApp" : "food_app",
+    "comida" : [
+        {
+            "nombre" : "Hamburguesa",
+            "imagen" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT69ebWgr_Sm1cC9uDh9fJIg15kGMgqfYPNVQ&usqp=CAU"
+        },
+        {
+            "nombre" : "Tacos al pastor",
+            "imagen" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Si-diNlVfzbTFUQkkFry76Ji1yyUsL2ONQ&usqp=CAU"
+        },
+        {
+            "nombre" : "Pizza",
+            "imagen" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwU7aFqatLPhWkkpg0uYVaImQBjiYJpB8R8Q&usqp=CAU"
+        }
+    ]
+}
